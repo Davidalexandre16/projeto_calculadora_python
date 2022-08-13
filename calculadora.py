@@ -10,7 +10,7 @@ cor3 = "#ffffff" #branco
 cor4 = "#ff851c" #laranja
 
 
-
+# JANELA DA BIBLIOTECA TKINTER
 janela = Tk()
 janela.title("Calculadora")
 janela.geometry("235x305")
